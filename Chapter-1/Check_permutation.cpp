@@ -48,4 +48,5 @@ bool check_Permutation(string str1, string str2){
 int main(){
     int str1, str2;
     cin >> str1 >> str2;
+    printf(check_Permututation(str1, str2))
 }
